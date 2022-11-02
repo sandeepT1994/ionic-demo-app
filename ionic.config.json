@@ -1,0 +1,8 @@
+{
+  "name": "Ionic Demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b4ba8caa"
+}
